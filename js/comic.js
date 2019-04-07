@@ -531,8 +531,7 @@ var hrefs = {
 var platforms = [
 	"facebook",
 	"twitter",
-	"tumblr",
-	"reddit",
+	
 	"email"
 ];
 
