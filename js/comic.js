@@ -524,11 +524,9 @@ var share_desc = encodeURIComponent( $("#share_desc").innerText.trim() );
 var share_url = encodeURIComponent( window.location.origin+window.location.pathname );
 
 var hrefs = {
-	facebook: "https://www.facebook.com/sharer/sharer.php?u="+share_url,
-	twitter: "https://twitter.com/intent/tweet?source="+share_url+"&text="+share_title+" – "+share_desc+":%20"+share_url,
-	tumblr: "http://www.tumblr.com/share?v=3&u="+share_url+"&t=+share_title+&s=",
-	reddit: "http://www.reddit.com/submit?url="+share_url+"&title="+share_title,
-	email: "mailto:?subject="+share_title+"&body="+share_desc+":%20"+share_url
+	facebook: "https://www.facebook.com/aryabhatiya.iitkgp/",
+	twitter: "https://twitter.com/_Aryabhatiya",
+	email: "mailto:founder.aryabhatiyarespect@gmail.com"
 };
 var platforms = [
 	"facebook",
